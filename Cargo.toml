@@ -10,6 +10,6 @@ gridmath = { path = "gridmath" }
 sandworld = { path = "sandworld" }
 bevy = { version = "0.13.1" }
 noise = "0.9"
-rand = "0.8.5"
+rand = "0.9.3"
 bevy_xpbd_2d = "0.4.2"
 rayon = "1.5"
